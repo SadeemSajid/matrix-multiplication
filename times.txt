@@ -1,0 +1,34 @@
+Python:
+
+	1 - 9645
+	2 - 9653
+	3 - 9631
+
+Java:
+
+	1 - 532 seconds
+	2 - 409 seconds
+	3 - 547 seconds
+
+C:
+	1 - 545 seconds
+	2 - 493 seconds
+	3 - 547 seconds
+
+Pthreads (8 threads):
+
+	1 - 127 seconds
+	2 - 153 seconds 
+	3 - 154 seconds
+
+Vectorisation (Threaded):
+
+	1 - 33 seconds
+	2 - 34 seconds
+	3 - 34 seconds
+
+Vectorisation (Serial):
+
+	1 - 155 seconds
+	2 - 143 seconds
+	3 - 155 seconds
